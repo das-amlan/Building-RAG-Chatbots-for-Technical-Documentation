@@ -1,5 +1,7 @@
 # Building RAG Chatbots for Technical Documentation
 
+![A car dashboard with lots of new technical features.](dashboard.jpg)
+
 ## Project Overview
 
 This project demonstrates how to build a context-aware chatbot by integrating technical documentation, specifically a car manual, with a Large Language Model (LLM) using Retrieval Augmented Generation (RAG). The goal is to create a chatbot that can provide guidance to drivers based on the information contained within the manual.
