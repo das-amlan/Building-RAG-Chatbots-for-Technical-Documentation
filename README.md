@@ -48,7 +48,7 @@ The following key Python libraries are used in this project:
     ```
     The notebook includes a function `install_if_needed` to ensure specific versions of required packages are installed.
 3.  **Setup OpenAI API Key**: You will need an OpenAI API key to run the embedding and LLM models. Set it as an environment variable named `OPENAI_API_KEY`.
-4.  **Run the Notebook**: Execute the cells in the provided Jupyter notebook (`ragModel.ipynb`) sequentially.
+4.  **Run the Notebook**: Execute the cells in the provided Jupyter notebook (`ragChat.ipynb`) sequentially.
 
 ## Potential and Next Steps
 
